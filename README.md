@@ -1,3 +1,6 @@
+<h1>Magic Score Counter</h1><br>
+
+
 Magic score counter made with Svelte.js<br>
 I wanted to Remake the score counter I made in React and have been hearing a lot of buzz on svelte so I wante to give it a go. <br>
 
